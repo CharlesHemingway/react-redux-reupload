@@ -1,0 +1,41 @@
+.home {
+  margin-top: 50px;
+  max-width: 100%;
+  text-align:center;
+   }
+
+.home__heading {
+  margin-bottom: 76px;
+  font-size: 70px;
+  font-weight: 300;
+  text-align: center; 
+  color: white;}
+  .home__subtext {
+  margin-bottom: 46px;
+  font-size: 30px;
+  font-weight: 300;
+  text-align: center; 
+  color: white;}
+
+.home__button {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border: 1px solid #555;
+  width: 20%;
+  height: 48px;
+  font-family: inherit;
+  font-size: 1.125rem;
+  line-height: 48px;
+  background-color: transparent;}
+  .home__button:hover {
+    border: 2px solid #aaa;
+    line-height: 46px; }
+    
+    .left {
+      width: 200px;
+      float: left;
+    }
+    .right {
+      margin-left: 200px;
+      /* Change this to whatever the width of your left column is*/
+    }
